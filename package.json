@@ -1,0 +1,37 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/react-native-action-sheet": "^2.1.0",
+    "@valdio/react-native-scrollable-tabview": "^0.8.11",
+    "accordion-collapse-react-native": "^0.1.9",
+    "expo": "^32.0.0",
+    "native-base": "^2.12.1",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-base64": "0.0.2",
+    "react-native-bottom-navigation": "^0.7.6",
+    "react-native-camera": "^2.1.1",
+    "react-native-drawer": "^2.5.1",
+    "react-native-elements": "^1.1.0",
+    "react-native-floating-action": "^1.14.2",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-image-slider": "^2.0.3",
+    "react-native-image-slider-show": "^1.0.3",
+    "react-native-image-zoom-viewer": "^2.2.25",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-native-onboarding-swiper": "^1.0.1",
+    "react-native-svg": "^9.3.6",
+    "react-navigation": "^3.3.2",
+    "react-navigation-header-buttons": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
