@@ -5,6 +5,6 @@
   "packagerNgrokUrl": "https://packager.43-ttw.anonymous.aceversion.exp.direct",
   "ngrokPid": 2527,
   "devToolsPort": 19002,
-  "packagerPort": 19001,
-  "packagerPid": 2507
+  "packagerPort": null,
+  "packagerPid": null
 }
